@@ -1,0 +1,21 @@
+.App {
+	text-align: center;
+	font-size: 25px;
+	margin-top: 20%;
+}
+
+.btn{
+	cursor: pointer;
+	size: 5px;
+}
+
+.Modify-item {
+	cursor: pointer;
+	size: 5px;
+	color:blue;
+}
+
+.Text-modifier {
+	padding-bottom: 50px;
+	font-size: 20px;
+}
